@@ -1,6 +1,6 @@
 # Awesome-Story-Visualization
 
-We will progressively conduct in-depth research on the related work of story visualization and write a comprehensive review article. In the meantime, we welcome you to follow **ViStoryBench**.
+We will progressively conduct in-depth research on the related work of story visualization (Image, Video, 3D and 4D) and write a comprehensive review article. In the meantime, we welcome you to follow **ViStoryBench**.
 
 ### ViStoryBench: A Comprehensive Benchmark Suite for Story Visualization
 
